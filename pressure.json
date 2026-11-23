@@ -10,14 +10,14 @@
         "effect": "中",
         "weather": "晴",
         "max_hpa": 1030,
-        "min_hpa": 1024
+        "min_hpa": 1025
       },
       "tomorrow": {
         "month": 11,
         "day": 24,
         "trend": "下降",
         "effect": "大",
-        "weather": "雨時々曇",
+        "weather": "雨時々晴",
         "max_hpa": 1024,
         "min_hpa": 1007
       },
@@ -122,7 +122,7 @@
       "hourly_tomorrow": [
         {
           "h": 0,
-          "p": 1024
+          "p": 1025
         },
         {
           "h": 1,
@@ -170,7 +170,7 @@
         },
         {
           "h": 12,
-          "p": 1011
+          "p": 1010
         },
         {
           "h": 13,
@@ -285,7 +285,7 @@
         "day": 24,
         "trend": "下降",
         "effect": "大",
-        "weather": "雨時々曇",
+        "weather": "雨時々晴",
         "max_hpa": 1024,
         "min_hpa": 1006
       },
@@ -538,6 +538,6 @@
       "name": "袋井市"
     }
   },
-  "updated_at": "2026-11-23T21:03:45.442765+09:00",
-  "updated_label": "21:03"
+  "updated_at": "2026-11-24T00:03:45.763668+09:00",
+  "updated_label": "00:03"
 }
