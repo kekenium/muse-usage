@@ -2,13 +2,13 @@
   "source": "tenki.jp 気圧予報",
   "cities": {
     "iwata": {
-      "announced": "24日12:00",
+      "announced": "24日18:00",
       "today": {
         "month": 11,
         "day": 24,
-        "trend": "下降",
+        "trend": "上昇",
         "effect": "大",
-        "weather": "雨のち晴",
+        "weather": "晴",
         "max_hpa": 1024,
         "min_hpa": 1005
       },
@@ -104,15 +104,15 @@
         },
         {
           "h": 20,
-          "p": 1006
+          "p": 1005
         },
         {
           "h": 21,
-          "p": 1007
+          "p": 1006
         },
         {
           "h": 22,
-          "p": 1008
+          "p": 1007
         },
         {
           "h": 23,
@@ -264,19 +264,19 @@
           "date": "12/3",
           "dow": "木",
           "trend": "下降",
-          "effect": "中"
+          "effect": "大"
         }
       ],
       "name": "磐田市"
     },
     "fukuroi": {
-      "announced": "24日12:00",
+      "announced": "24日18:00",
       "today": {
         "month": 11,
         "day": 24,
-        "trend": "下降",
+        "trend": "上昇",
         "effect": "大",
-        "weather": "雨のち晴",
+        "weather": "晴",
         "max_hpa": 1024,
         "min_hpa": 1005
       },
@@ -384,7 +384,7 @@
         },
         {
           "h": 23,
-          "p": 1008
+          "p": 1007
         }
       ],
       "hourly_tomorrow": [
@@ -532,12 +532,12 @@
           "date": "12/3",
           "dow": "木",
           "trend": "下降",
-          "effect": "中"
+          "effect": "大"
         }
       ],
       "name": "袋井市"
     }
   },
-  "updated_at": "2026-11-24T18:03:45.647322+09:00",
-  "updated_label": "18:03"
+  "updated_at": "2026-11-24T21:03:44.991117+09:00",
+  "updated_label": "21:03"
 }
